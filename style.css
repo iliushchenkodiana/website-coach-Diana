@@ -170,3 +170,6 @@
     .photo-frame{aspect-ratio:5/4;}
     .manifesto{padding:22px;}
   }
+
+/* picture wrappers fill their frame (webp + fallback) */
+.hero picture,.photo-frame picture{display:block;width:100%;height:100%;}
