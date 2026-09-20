@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dianailiushchenko.com/sitemap.xml
+Sitemap: https://iliushchenkodiana.github.io/website-coach-Diana/sitemap.xml
